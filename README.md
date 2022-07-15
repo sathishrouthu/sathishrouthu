@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Sathish Routhu</h1>
-<h3 align="center">Data Science enthusiast</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathishrouthu&label=Profile%20views&color=0e75b6&style=flat" alt="sathishrouthu" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning & Deep Learning**
+## Hi there, I'm Sathish..!
 
-- 📫 How to reach me **sathishrouthu018@gmail.com**
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m Currently studying B.Tech in Information Technology;
+- 🤔 My interests are with  Data Science 📊, Web App Development 🖥️, Space 🚀, etc..;
+- 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/2-22893_iron-man-png-iron-man-2-mark-6.png" width=20 height=25>
+- 📫 Please email via sathishrouthu018@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/sathish-routhu/) to reach me;
+<br/> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sathish-routhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathish-routhu" height="30" width="40" /></a>
