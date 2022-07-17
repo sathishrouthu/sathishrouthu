@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathishrouthu&label=Profile%20views&color=0e75b6&style=flat" alt="sathishrouthu" /> </p>
 
-## Hi there, I'm Sathish..!
+## Hey there, I'm Sathish..!
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
