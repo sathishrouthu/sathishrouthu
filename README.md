@@ -25,6 +25,6 @@
 <div width="45%">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathishrouthu&show_icons=true&locale=en&layout=compact" alt="sathishrouthu" /></p>
 </div>
-<div width="45%">
+<div width="40%">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathishrouthu&show_icons=true&locale=en" alt="sathishrouthu" /></p>
 </div>
