@@ -9,7 +9,7 @@
 - 👨🏽‍💻 I’m Currently studying B.Tech in Information Technology;
 - 🤔 My interests are with  Data Science 📊, Web App Development 🖥️, Space 🚀, etc..;
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/2-22893_iron-man-png-iron-man-2-mark-6.png" width=20 height=25>
-- 📫 Please email via sathishrouthu018@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/sathish-routhu/) to reach me;
+- 📫 Please email via sathishrouthu222@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/sathish-routhu/) to reach me;
 <br/> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
